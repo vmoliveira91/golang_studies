@@ -8,3 +8,4 @@ A repository created to store [LeetCode](https://leetcode.com/) problems solved 
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
